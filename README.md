@@ -17,6 +17,7 @@ I barely even take coding classes and I am very good at coding.
 
 ### Other websites i got a account on
 
-<kbd>[**CodePen**](https://codepen.io/Maxwell-Adesina)</kbd>
+<kbd>[**CodePen**](https://codepen.io/Maxwell-Adesina)</kbd> <kbd>[**DEV**](https://dev.to/maxwell_adesina_2e6361bf8)</kbd>
+
 
 
